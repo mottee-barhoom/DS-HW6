@@ -1,0 +1,17 @@
+server:
+  port: 8070
+
+spring:
+  application:
+    name: course-service
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+
+#logging.file=C:/elk/spring-boot-elk.log
+logging:
+    file:
+        name: 'C:\HW6\elk\log\course.log'
+
