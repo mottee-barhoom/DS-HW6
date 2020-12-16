@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: fiveHw.studentService.StudentServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 54.309 s - in fiveHw.studentService.StudentServiceApplicationTests
